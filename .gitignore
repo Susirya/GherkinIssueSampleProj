@@ -1,0 +1,6 @@
+/classes/
+/logs/
+*.iml
+*.log
+*.log.*
+/.idea/
